@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1gVMy_-E-tU0K0fXvuMqOlS1uU1PjxHs3/view?usp=shari
 ### 4. BERT_TextCNN_256
 https://drive.google.com/file/d/1dFvvOEdidc1s1gA0td2iL0WUuQSzOA9N/view?usp=sharing
 ### 5. BERT_RCNN_256
-BERT_RCNN_256_ATTITUDE_EMPLOYEES
+https://drive.google.com/file/d/1tg1aksIHzj1ntVccncwaaBrTaF59yRQi/view?usp=sharing
 ### 6. BERT_LSTM (Long short-term memory),
 ### 7. XLNet
 ### 8. RoBERTa
