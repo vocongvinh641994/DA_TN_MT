@@ -8,9 +8,7 @@ https://drive.google.com/file/d/1sY8AwimDncxnzZHT96UXR42hvUn4eudl/view?usp=shari
 #### 3. BERT_Multilangual_Embedding_RCNN_256
 https://drive.google.com/file/d/1tg1aksIHzj1ntVccncwaaBrTaF59yRQi/view?usp=sharing
 #### 4. BERT_Multilangual_Embedding_LSTM_256
-https://colab.research.google.com/drive/1vk_7wt-EfzVS1GjQ2GplT9QxudJQUm5Z
-#### 6. BERT_LSTM
-https://colab.research.google.com/drive/1vk_7wt-EfzVS1GjQ2GplT9QxudJQUm5Z
+https://drive.google.com/file/d/188rXHRazpYppw8UKXkHQ5CXeqFeOFZsY/view?usp=sharing
 #### 7. XLNet
 https://colab.research.google.com/drive/1ccsqPIw8P-5sBoc3VZ536xVWSYSvp2QP?usp=sharing
 #### 8. RoBERTa
