@@ -9,11 +9,9 @@ https://drive.google.com/file/d/19NNmvl_BUFTHe-zIzpAw9uhjlUzu8M8e/view?usp=shari
 https://drive.google.com/file/d/1tg1aksIHzj1ntVccncwaaBrTaF59yRQi/view?usp=sharing
 #### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
 https://drive.google.com/file/d/188rXHRazpYppw8UKXkHQ5CXeqFeOFZsY/view?usp=sharing
-#### 7. XLNet
-https://colab.research.google.com/drive/1ccsqPIw8P-5sBoc3VZ536xVWSYSvp2QP?usp=sharing
-#### 8. RoBERTa
+#### 8. XLM-Roberta
 https://colab.research.google.com/drive/1aJnEbIuDZbptTNmQPsFix3Zop8_a7GXa
-#### 9. PhoBERT
+#### 9. PhoBERT =>>> OK
 https://colab.research.google.com/drive/1OUpzfhQnCC-v_WOqOU1co4R3h7iqABA-
 
 
