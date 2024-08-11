@@ -3,8 +3,8 @@
 https://docs.google.com/spreadsheets/d/1nY1FIZQXTMxXj-cz_GPMIW9RoPh3FwULZc2PXa--qUw/edit?usp=sharing
 #### 1. BERT_Multilangual =>>> OK
 https://drive.google.com/file/d/1sY8AwimDncxnzZHT96UXR42hvUn4eudl/view?usp=sharing
-#### 2. BERT_Multilangual_Embedding_TextCNN_256
-
+#### 2. BERT_Multilangual_Embedding_TextCNN_256 =>>> OK
+https://drive.google.com/file/d/19NNmvl_BUFTHe-zIzpAw9uhjlUzu8M8e/view?usp=sharing
 #### 3. BERT_Multilangual_Embedding_RCNN_256 =>>> OK
 https://drive.google.com/file/d/1tg1aksIHzj1ntVccncwaaBrTaF59yRQi/view?usp=sharing
 #### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
