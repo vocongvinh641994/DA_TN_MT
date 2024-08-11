@@ -1,13 +1,13 @@
 # 05/08/2024
 ## Report
 https://docs.google.com/spreadsheets/d/1nY1FIZQXTMxXj-cz_GPMIW9RoPh3FwULZc2PXa--qUw/edit?usp=sharing
-#### 1. BERT_Multilangual
+#### 1. BERT_Multilangual =>>> OK
 https://drive.google.com/file/d/1sY8AwimDncxnzZHT96UXR42hvUn4eudl/view?usp=sharing
 #### 2. BERT_Multilangual_Embedding_TextCNN_256
 
-#### 3. BERT_Multilangual_Embedding_RCNN_256
+#### 3. BERT_Multilangual_Embedding_RCNN_256 =>>> OK
 https://drive.google.com/file/d/1tg1aksIHzj1ntVccncwaaBrTaF59yRQi/view?usp=sharing
-#### 4. BERT_Multilangual_Embedding_LSTM_256
+#### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
 https://drive.google.com/file/d/188rXHRazpYppw8UKXkHQ5CXeqFeOFZsY/view?usp=sharing
 #### 7. XLNet
 https://colab.research.google.com/drive/1ccsqPIw8P-5sBoc3VZ536xVWSYSvp2QP?usp=sharing
