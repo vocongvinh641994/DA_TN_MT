@@ -59,5 +59,5 @@ https://drive.google.com/file/d/1kUFxaVwLGgUv6JhO8Y-USQ_GPOcfzq34/view?usp=shari
 #### 4. BERT_Multilangual_Embedding_LSTM_256
 https://drive.google.com/file/d/1vskQ_cI6KAw4oS2CbpQOtxOWtqocQDmm/view?usp=sharing
 #### 5. PhoBERT
-
+https://colab.research.google.com/drive/1FCZ8q0xmXFOLxihexNGtAq0LKEapQ0IK?usp=sharing
 
