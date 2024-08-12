@@ -32,7 +32,7 @@ https://colab.research.google.com/drive/1l00LoKyWP77yqrmptLxl62YmLtGMMAA9?usp=sh
 
 
 #
-#### Database Attitude Driver
+#### Database Driver
 https://colab.research.google.com/drive/1P2cPcvbw6SRbwlKxcduW7GWutjxkAyzl?usp=sharing
 #### 1. BERT_Multilangual
 https://drive.google.com/file/d/1cXI83ZyAtdIx-qt6CWZzEdaIB3HI_ySy/view?usp=sharing
@@ -44,4 +44,20 @@ https://drive.google.com/file/d/1UKAUVQXFsjQL8ycswcI0GwWigv0gtdfL/view?usp=shari
 https://drive.google.com/file/d/1Rx8dzpWK_1NaB_ldazhGewDeeDQZJLSX/view?usp=sharing
 #### 5. PhoBERT
 https://colab.research.google.com/drive/1pIKH6z-zwINZlaVr8zobJsUeTCEPNjkk?usp=sharing
+
+
+
+#
+#### Database Application
+https://drive.google.com/file/d/1MetPiUlzcdsmvRCMUAxQI0XTM_DBrSIh/view?usp=sharing
+#### 1. BERT_Multilangual
+https://drive.google.com/file/d/1s49LGAPZKm25inkMx6h1nmYFVusPKfmV/view?usp=sharing
+#### 2. BERT_Multilangual_Embedding_TextCNN_256 =>>> OK
+
+#### 3. BERT_Multilangual_Embedding_RCNN_256 =>>> OK
+
+#### 4. BERT_Multilangual_Embedding_LSTM_256
+
+#### 5. PhoBERT
+
 
