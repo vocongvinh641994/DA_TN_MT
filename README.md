@@ -53,11 +53,11 @@ https://drive.google.com/file/d/1MetPiUlzcdsmvRCMUAxQI0XTM_DBrSIh/view?usp=shari
 #### 1. BERT_Multilangual
 https://drive.google.com/file/d/1s49LGAPZKm25inkMx6h1nmYFVusPKfmV/view?usp=sharing
 #### 2. BERT_Multilangual_Embedding_TextCNN_256
-
+https://drive.google.com/file/d/1vMpml5uc3zUuguuOCVfxf6tAymATNcnL/view?usp=sharing
 #### 3. BERT_Multilangual_Embedding_RCNN_256
 https://drive.google.com/file/d/1kUFxaVwLGgUv6JhO8Y-USQ_GPOcfzq34/view?usp=sharing
 #### 4. BERT_Multilangual_Embedding_LSTM_256
-
+https://drive.google.com/file/d/1vskQ_cI6KAw4oS2CbpQOtxOWtqocQDmm/view?usp=sharing
 #### 5. PhoBERT
 
 
