@@ -55,7 +55,7 @@ https://drive.google.com/file/d/1s49LGAPZKm25inkMx6h1nmYFVusPKfmV/view?usp=shari
 #### 2. BERT_Multilangual_Embedding_TextCNN_256
 
 #### 3. BERT_Multilangual_Embedding_RCNN_256
-
+https://drive.google.com/file/d/1kUFxaVwLGgUv6JhO8Y-USQ_GPOcfzq34/view?usp=sharing
 #### 4. BERT_Multilangual_Embedding_LSTM_256
 
 #### 5. PhoBERT
