@@ -17,15 +17,15 @@ https://colab.research.google.com/drive/1OUpzfhQnCC-v_WOqOU1co4R3h7iqABA-?usp=sh
 
 
 # 13/08/2024
-#### Database Attitude Employees
+#### Database Attitude Employees =>>> OK
 https://drive.google.com/file/d/1bkER-JO8jtbDj6xgY0A3fhFepqXXybuS/view?usp=sharing
-#### 1. BERT_Multilangual
+#### 1. BERT_Multilangual =>>> OK
 https://drive.google.com/file/d/1dpr1Apz76fZ8p5hkrIk-X24HH-JZVICa/view?usp=sharing
-#### 2. BERT_Multilangual_Embedding_TextCNN_256
+#### 2. BERT_Multilangual_Embedding_TextCNN_256 =>>> OK
 https://drive.google.com/file/d/17LBCm63COThfgRfGgwZQy6NrJIrKwIHV/view?usp=sharing
-#### 3. BERT_Multilangual_Embedding_RCNN_256
+#### 3. BERT_Multilangual_Embedding_RCNN_256 =>>> OK
 https://drive.google.com/file/d/1Sruni3nEEW8-i1aUXctyTqAiXDoT6eTn/view?usp=sharing
-#### 4. BERT_Multilangual_Embedding_LSTM_256
+#### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
 https://drive.google.com/file/d/1HJDV00qGab5Xvb6BGlOQVp7ppB4acbxP/view?usp=sharing
 #### 5. PhoBERT
 https://colab.research.google.com/drive/1l00LoKyWP77yqrmptLxl62YmLtGMMAA9?usp=sharing
