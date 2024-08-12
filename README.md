@@ -1,7 +1,7 @@
 # 05/08/2024
 ## Report
 https://docs.google.com/spreadsheets/d/1nY1FIZQXTMxXj-cz_GPMIW9RoPh3FwULZc2PXa--qUw/edit?usp=sharing
-#### Database =>>> OK
+#### Database Attitude employee =>>> OK
 https://drive.google.com/file/d/1hjTef_SuZdiPAYwDq_nf4XYjf7Qrr17N/view?usp=sharing
 #### 1. BERT_Multilangual =>>> OK
 https://drive.google.com/file/d/1sY8AwimDncxnzZHT96UXR42hvUn4eudl/view?usp=sharing
@@ -18,7 +18,8 @@ https://colab.research.google.com/drive/1OUpzfhQnCC-v_WOqOU1co4R3h7iqABA-
 
 # 13/08/2024
 ## Report
-#### Database 
+
+#### Database Attitude Employees
 #### 1. BERT_Multilangual 
 #### 2. BERT_Multilangual_Embedding_TextCNN_256
 #### 3. BERT_Multilangual_Embedding_RCNN_256
