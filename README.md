@@ -12,8 +12,7 @@ https://drive.google.com/file/d/1tg1aksIHzj1ntVccncwaaBrTaF59yRQi/view?usp=shari
 #### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
 https://drive.google.com/file/d/188rXHRazpYppw8UKXkHQ5CXeqFeOFZsY/view?usp=sharing
 #### 5. PhoBERT =>>> OK
-https://colab.research.google.com/drive/1OUpzfhQnCC-v_WOqOU1co4R3h7iqABA-
-
+https://colab.research.google.com/drive/1OUpzfhQnCC-v_WOqOU1co4R3h7iqABA-?usp=sharing
 
 
 # 13/08/2024
