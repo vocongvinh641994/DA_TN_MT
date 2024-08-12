@@ -52,9 +52,9 @@ https://colab.research.google.com/drive/1pIKH6z-zwINZlaVr8zobJsUeTCEPNjkk?usp=sh
 https://drive.google.com/file/d/1MetPiUlzcdsmvRCMUAxQI0XTM_DBrSIh/view?usp=sharing
 #### 1. BERT_Multilangual
 https://drive.google.com/file/d/1s49LGAPZKm25inkMx6h1nmYFVusPKfmV/view?usp=sharing
-#### 2. BERT_Multilangual_Embedding_TextCNN_256 =>>> OK
+#### 2. BERT_Multilangual_Embedding_TextCNN_256
 
-#### 3. BERT_Multilangual_Embedding_RCNN_256 =>>> OK
+#### 3. BERT_Multilangual_Embedding_RCNN_256
 
 #### 4. BERT_Multilangual_Embedding_LSTM_256
 
