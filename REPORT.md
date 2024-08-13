@@ -5,23 +5,23 @@ https://docs.google.com/spreadsheets/d/1nY1FIZQXTMxXj-cz_GPMIW9RoPh3FwULZc2PXa--
 # 13/08/2024
 
 #
-#### Database Application
+#### Database Application =>>> OK
 https://drive.google.com/file/d/1MetPiUlzcdsmvRCMUAxQI0XTM_DBrSIh/view?usp=sharing
-#### 1. BERT_Multilangual
+#### 1. BERT_Multilangual =>>> OK
 https://drive.google.com/file/d/1s49LGAPZKm25inkMx6h1nmYFVusPKfmV/view?usp=sharing
-#### 2. BERT_Multilangual_Embedding_TextCNN_256
+#### 2. BERT_Multilangual_Embedding_TextCNN_256 =>>> OK
 https://drive.google.com/file/d/1vMpml5uc3zUuguuOCVfxf6tAymATNcnL/view?usp=sharing
-#### 3. BERT_Multilangual_Embedding_RCNN_256
+#### 3. BERT_Multilangual_Embedding_RCNN_256 =>>> OK
 https://drive.google.com/file/d/1kUFxaVwLGgUv6JhO8Y-USQ_GPOcfzq34/view?usp=sharing
-#### 4. BERT_Multilangual_Embedding_LSTM_256
+#### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
 https://drive.google.com/file/d/1vskQ_cI6KAw4oS2CbpQOtxOWtqocQDmm/view?usp=sharing
-#### 5. PhoBERT
+#### 5. PhoBERT =>>> PROCESSING
 https://colab.research.google.com/drive/1FCZ8q0xmXFOLxihexNGtAq0LKEapQ0IK?usp=sharing
 
 #
 #### Database Driver
 https://colab.research.google.com/drive/1P2cPcvbw6SRbwlKxcduW7GWutjxkAyzl?usp=sharing
-#### 1. BERT_Multilangual
+#### 1. BERT_Multilangual =>>> OK
 https://drive.google.com/file/d/1cXI83ZyAtdIx-qt6CWZzEdaIB3HI_ySy/view?usp=sharing
 #### 2. BERT_Multilangual_Embedding_TextCNN_256 =>>> OK
 https://drive.google.com/file/d/15Zgj1f7Z6emi1wMQOMV6byp4MOat9ckn/view?usp=sharing
@@ -29,7 +29,7 @@ https://drive.google.com/file/d/15Zgj1f7Z6emi1wMQOMV6byp4MOat9ckn/view?usp=shari
 https://drive.google.com/file/d/1UKAUVQXFsjQL8ycswcI0GwWigv0gtdfL/view?usp=sharing
 #### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
 https://drive.google.com/file/d/1Rx8dzpWK_1NaB_ldazhGewDeeDQZJLSX/view?usp=sharing
-#### 5. PhoBERT
+#### 5. PhoBERT =>>> 10%
 https://colab.research.google.com/drive/1pIKH6z-zwINZlaVr8zobJsUeTCEPNjkk?usp=sharing
 
 
