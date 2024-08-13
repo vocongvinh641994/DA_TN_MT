@@ -1,10 +1,12 @@
-# Summary Report
+# Link tổng hợp báo cáo
 https://docs.google.com/spreadsheets/d/1nY1FIZQXTMxXj-cz_GPMIW9RoPh3FwULZc2PXa--qUw/edit?usp=sharing
+
+
 # Tiến độ
 https://docs.google.com/spreadsheets/d/1-lXATXfr0iORkeC39wI2Y2QLq4JLviey/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
 
 # 13/08/2024
-
+# Link tổng hợp từng mô hình: https://drive.google.com/drive/folders/1BlIFkkrOJCU6ajdx1nqXYpOvIIJkvsFt?usp=sharing
 #
 #### Database Application =>>> OK
 https://drive.google.com/file/d/1MetPiUlzcdsmvRCMUAxQI0XTM_DBrSIh/view?usp=sharing
@@ -18,6 +20,8 @@ https://drive.google.com/file/d/1kUFxaVwLGgUv6JhO8Y-USQ_GPOcfzq34/view?usp=shari
 https://drive.google.com/file/d/1vskQ_cI6KAw4oS2CbpQOtxOWtqocQDmm/view?usp=sharing
 #### 5. PhoBERT =>>> 10%
 https://colab.research.google.com/drive/1FCZ8q0xmXFOLxihexNGtAq0LKEapQ0IK?usp=sharing
+
+
 
 #
 #### Database Driver
@@ -34,6 +38,7 @@ https://drive.google.com/file/d/1Rx8dzpWK_1NaB_ldazhGewDeeDQZJLSX/view?usp=shari
 https://colab.research.google.com/drive/1pIKH6z-zwINZlaVr8zobJsUeTCEPNjkk?usp=sharing
 
 
+
 #### Database Attitude Employees =>>> OK
 https://drive.google.com/file/d/1bkER-JO8jtbDj6xgY0A3fhFepqXXybuS/view?usp=sharing
 #### 1. BERT_Multilangual =>>> OK
@@ -46,6 +51,8 @@ https://drive.google.com/file/d/1Sruni3nEEW8-i1aUXctyTqAiXDoT6eTn/view?usp=shari
 https://drive.google.com/file/d/1HJDV00qGab5Xvb6BGlOQVp7ppB4acbxP/view?usp=sharing
 #### 5. PhoBERT
 https://colab.research.google.com/drive/1l00LoKyWP77yqrmptLxl62YmLtGMMAA9?usp=sharing
+
+
 
 # 05/08/2024
 #### Database Attitude employee =>>> OK
