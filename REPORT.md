@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1vMpml5uc3zUuguuOCVfxf6tAymATNcnL/view?usp=shari
 https://drive.google.com/file/d/1kUFxaVwLGgUv6JhO8Y-USQ_GPOcfzq34/view?usp=sharing
 #### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
 https://drive.google.com/file/d/1vskQ_cI6KAw4oS2CbpQOtxOWtqocQDmm/view?usp=sharing
-#### 5. PhoBERT =>>> 10%
+#### 5. PhoBERT =>>> 20%
 https://colab.research.google.com/drive/1FCZ8q0xmXFOLxihexNGtAq0LKEapQ0IK?usp=sharing
 
 
@@ -35,7 +35,7 @@ https://drive.google.com/file/d/15Zgj1f7Z6emi1wMQOMV6byp4MOat9ckn/view?usp=shari
 https://drive.google.com/file/d/1UKAUVQXFsjQL8ycswcI0GwWigv0gtdfL/view?usp=sharing
 #### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
 https://drive.google.com/file/d/1Rx8dzpWK_1NaB_ldazhGewDeeDQZJLSX/view?usp=sharing
-#### 5. PhoBERT =>>> 10%
+#### 5. PhoBERT =>>> 20%
 https://colab.research.google.com/drive/1pIKH6z-zwINZlaVr8zobJsUeTCEPNjkk?usp=sharing
 
 
