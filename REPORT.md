@@ -1,6 +1,7 @@
 # Summary Report
 https://docs.google.com/spreadsheets/d/1nY1FIZQXTMxXj-cz_GPMIW9RoPh3FwULZc2PXa--qUw/edit?usp=sharing
-
+# Tiến độ
+https://docs.google.com/spreadsheets/d/1-lXATXfr0iORkeC39wI2Y2QLq4JLviey/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
 
 # 13/08/2024
 
