@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1vMpml5uc3zUuguuOCVfxf6tAymATNcnL/view?usp=shari
 https://drive.google.com/file/d/1kUFxaVwLGgUv6JhO8Y-USQ_GPOcfzq34/view?usp=sharing
 #### 4. BERT_Multilangual_Embedding_LSTM_256 =>>> OK
 https://drive.google.com/file/d/1vskQ_cI6KAw4oS2CbpQOtxOWtqocQDmm/view?usp=sharing
-#### 5. PhoBERT =>>> PROCESSING
+#### 5. PhoBERT =>>> 10%
 https://colab.research.google.com/drive/1FCZ8q0xmXFOLxihexNGtAq0LKEapQ0IK?usp=sharing
 
 #
