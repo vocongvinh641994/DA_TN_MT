@@ -6,7 +6,8 @@ https://docs.google.com/spreadsheets/d/1nY1FIZQXTMxXj-cz_GPMIW9RoPh3FwULZc2PXa--
 https://docs.google.com/spreadsheets/d/1-lXATXfr0iORkeC39wI2Y2QLq4JLviey/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
 
 # 13/08/2024
-# Link tổng hợp từng mô hình: https://drive.google.com/drive/folders/1BlIFkkrOJCU6ajdx1nqXYpOvIIJkvsFt?usp=sharing
+# Link tổng hợp từng mô hình: 
+https://drive.google.com/drive/folders/1BlIFkkrOJCU6ajdx1nqXYpOvIIJkvsFt?usp=sharing
 #
 #### Database Application =>>> OK
 https://drive.google.com/file/d/1MetPiUlzcdsmvRCMUAxQI0XTM_DBrSIh/view?usp=sharing
