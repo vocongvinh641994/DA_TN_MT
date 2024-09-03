@@ -1,9 +1,29 @@
-# Link tổng hợp báo cáo
-https://docs.google.com/document/d/15UWVT9p0axV70BMDCTuh7NoGG0w7yREe/edit?usp=sharing
 # Tiến độ
 https://docs.google.com/spreadsheets/d/1-lXATXfr0iORkeC39wI2Y2QLq4JLviey/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
+# 03/09/2024
+# Link tổng hợp báo cáo
+https://docs.google.com/document/d/1LNCSYjcKisebyhmihTL7Ut667QtUexEj/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
+# Báo cáo chi tiết
+#BERT_Multilangual
+https://docs.google.com/document/d/11ObdXsKnD6uAJ5QDfam05vSoz8g3z8kt/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
+#PhoBERT
+https://docs.google.com/document/d/1gJhFhz0vMccdThiGFK2jbWYq3oUl-3Uc/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
+#Website
+https://docs.google.com/document/d/1hNRHlczS-clTfR8AKqCI0NoaeHZIKRZK/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
+================================================================================================
+#### 1. Database Driver
+https://drive.google.com/file/d/1OPICcyNP7F1IwJ-Ab_kGlPomCr5IFLD8/view?usp=sharing
+
+#### 2. BERT_Multilangual
+https://drive.google.com/file/d/1BaPQyOz7qBiH-8wT2d_3YiaXbTXYDB9n/view?usp=sharing
+
+#### 3. PhoBERT 
+https://colab.research.google.com/drive/1i_BxsRDYf5qfAZL9Xsa-6Tqmfy_eicWt?usp=sharing
 
 # 13/08/2024
+# Link tổng hợp báo cáo
+https://docs.google.com/document/d/15UWVT9p0axV70BMDCTuh7NoGG0w7yREe/edit?usp=sharing
+
 # Link tổng hợp từng mô hình: 
 https://drive.google.com/drive/folders/1BlIFkkrOJCU6ajdx1nqXYpOvIIJkvsFt?usp=sharing
 #
