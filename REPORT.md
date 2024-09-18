@@ -1,5 +1,16 @@
 # Tiến độ
 https://docs.google.com/spreadsheets/d/1-lXATXfr0iORkeC39wI2Y2QLq4JLviey/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
+
+# 03/09/2024
+# Link tổng hợp báo cáo
+https://docs.google.com/document/d/1YWCRE9lsaWUs5DFVPbDIaUYmtH5KnRTp/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
+# Báo cáo chi tiết
+#### PhoBERT
+https://docs.google.com/document/d/1htSNs7XCdfxazl_5zlEKmOTpxP1pOYo5/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
+#### Website
+https://docs.google.com/document/d/1EME9l1HV55ttPj4z0G-z51GVlnUKb7iC/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
+
+
 # 03/09/2024
 # Link tổng hợp báo cáo
 https://docs.google.com/document/d/1LNCSYjcKisebyhmihTL7Ut667QtUexEj/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
