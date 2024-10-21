@@ -1,6 +1,9 @@
 # Tiến độ
 https://docs.google.com/spreadsheets/d/1-lXATXfr0iORkeC39wI2Y2QLq4JLviey/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
 
+# 21/10/2024
+# Link tổng hợp báo cáo
+
 # 19/09/2024
 # Link tổng hợp báo cáo
 https://docs.google.com/document/d/1YWCRE9lsaWUs5DFVPbDIaUYmtH5KnRTp/edit?usp=sharing&ouid=104242853583898733001&rtpof=true&sd=true
